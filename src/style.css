@@ -255,6 +255,72 @@ span {
 }
 
 
+/* FIFTH PAGE-CONTACT PAGE */
+.page5 {
+    margin-top: 100px;
+}
+
+.page5 h1 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 70px;
+    font-size: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+.detail-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.contact-detail p {
+    display: flex;
+    align-items: center;
+    background: #1c1c1c;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.bi {
+    margin: 25px;
+    padding: 10px;
+    background-color: #161815;
+    border-radius: 20px;
+}
+
+.contact-me {
+    width: 35%;
+}
+
+.contact-me label {
+    font-size: 20px;
+}
+
+.text-box {
+    margin: 10px 0;
+    padding: 15px;
+    width: 100%;
+    border: 0;
+    background: #1c1c1c;
+    border-radius: 10px;
+}
+
+.msg {
+    cursor: pointer;
+    font-size: 15px;
+    padding: 15px 20px;
+    background-color: #bcb4b4;
+    color: #000000;
+    border: 0;
+    border-radius: 10px;
+}
+
+
 
 /* ABOUT Page */
 .about {
