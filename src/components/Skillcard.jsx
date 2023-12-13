@@ -1,11 +1,11 @@
 export default function Skillcard(props){
     return (
-        <div className="skill-card">
+        <div className="">
             <p>{props.id}</p>
-            <img src={props.simg}/>
+            <img className="skill-img" src={props.simg} width="90px"/>
             <h2>{props.sname}</h2>
             <span>{props.sdescription}</span>
-            <p>{props.skill}</p>
+            <h3>{props.skill}</h3>
         </div>
     )
 }

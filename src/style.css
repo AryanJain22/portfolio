@@ -107,8 +107,8 @@
 
 /* SECOND PAGE OF HOME */
 .page2 {
-    height: 85vh;
-    margin-bottom: 5%;
+    /* height: 85vh; */
+    margin-bottom: 80px;
 }
 
 .written-info {
@@ -163,7 +163,7 @@ p {
 /* THRIED PAGE OF HOME */
 .page3 {
     text-align: center;
-    height: 60vh;
+    /* height: 60vh; */
 }
 
 .page3 h1 {
@@ -171,25 +171,31 @@ p {
 }
 
 .heading3 {
-    margin-bottom: 8%;
+    margin-bottom: 120px;
 }
 
 .container3 {
     text-align: center;
     display: flex;
     margin: 0px 5%;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .skill-card {
     width: 33%;
 }
 
+.skill-img {
+    border-radius: 100%;
+    /* border: 2px solid black; */
+}
 
 
 
 /* FOURTH PAGE OF HOME */
 .page4 {
-    margin-top: 8%;
+    margin-top: 140px;
     margin-bottom: 8%;
     /* height: 90vh; */
 }

@@ -14,11 +14,10 @@ function createSkill(services) {
 
 export default function Page3() {
     return (
-
         <div className='page3'>
             <div className='heading3'>
-                <p>What i will do for you</p>
-                <h1>SERVICES</h1>
+                <p>What can I do</p>
+                <h1>SKILL SET</h1>
             </div>
             <div className='container3'>
                 {services.map(createSkill)}
