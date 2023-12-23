@@ -72,8 +72,8 @@
 
 .me {
     position: absolute;
-    bottom: 29%;
-    right: 31%;
+    bottom: 230px;
+    right: 470px;
     background: none;
     color: white;
 }
@@ -214,6 +214,7 @@ p {
 .container4 {
     margin: 0px 5%;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     overflow: hidden;
     padding: 20px;
@@ -222,6 +223,7 @@ p {
     border-radius: 30px;
 }
 
+
 .card {
     height: 65vh;
     padding: 5px;
@@ -229,6 +231,22 @@ p {
     border-radius: 10px;
     background: none;
 }
+
+@media (max-width: 600px) {
+
+    /* Apply the following styles only when the screen width is 600 pixels or less */
+    .container4 {
+        flex-direction: column;
+        /* Stack cards vertically */
+        align-items: center;
+    }
+
+    .card {
+        width: 80%;
+        /* Adjust the width for smaller screens */
+    }
+}
+
 
 .img-proj {
     height: 65%;
