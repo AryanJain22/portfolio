@@ -8,6 +8,8 @@ export default function Card(props) {
             <div className="title-box">
                 <h2>{props.proj_title}</h2>
                 <span>{props.description}</span>
+                <br></br>
+                <a href={props.link}>Link</a>
             </div>
         </div>
     );

@@ -96,6 +96,7 @@ body{
 }
 
 .btn-work:hover {
+    cursor: pointer;
     text-decoration: none;
     border: none;
     position: absolute;
@@ -229,7 +230,7 @@ p {
 
 
 .card {
-    height: 65vh;
+    height: 70vh;
     padding: 5px;
     width: 25%;
     border-radius: 10px;
@@ -368,7 +369,7 @@ span {
 
 .about-info p {
     font-size: 20px;
-    width: 85%;
+    width: 90%;
 }
 
 /* Education Card */

@@ -3,7 +3,7 @@ const education = [
         "id": "1",
         "class" : "B.Tech Computer Science",
         "school": "Vellore Institute of Technology, Bhopal",
-        "grade": "8.68 CGPA",
+        "grade": "8.79 CGPA",
     },
     {
         "id": "2",

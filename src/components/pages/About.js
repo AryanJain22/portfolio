@@ -39,7 +39,6 @@ const About = () => {
                         <br />
                         <br />
                         Detail-oriented and collaborative, I excel in translating clients' visions into functional and visually appealing websites.
-                        I am poised to contribute my skills to dynamic projects and continue evolving in the ever-changing realm of web development.
                     </p>
                 </div>
                 <div className="about-img">
