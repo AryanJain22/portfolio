@@ -1,21 +1,21 @@
 const services = [
     {
         "id": "1",
-        "simg": "https://cdn.discordapp.com/attachments/1059849186884985004/1184385680294551583/code.jpg?ex=65fa861f&is=65e8111f&hm=0c6946fa86a20177c71958b8aace69742d6153740d30bed67d3eca045f0c13f0&",
+        "simg": "https://cdn.discordapp.com/attachments/1059849186884985004/1184385680294551583/code.jpg?ex=662bf65f&is=662aa4df&hm=2e3ccd8578a5b5731d34e7a2e334143289355568cb30a1f5f93fac95a4e7fee7&",
         "sname": "Web Dev",
         "sdescription": "I also develop the websites. I create high performance website with blazing fast speed.",
         "skill": ["HTML |", " CSS |", " JS |", " React |", " Node.Js |", " PHP "],
     },
     {
         "id": "2",
-        "simg": "https://cdn.discordapp.com/attachments/1059849186884985004/1184387056466669658/ai.png?ex=65fa8767&is=65e81267&hm=4e06ac4f415950ec5f0179d7d7835695927c9a0a2548ead11f252714155b9e98&",
+        "simg": "https://cdn.discordapp.com/attachments/1059849186884985004/1184387056466669658/ai.png?ex=662bf7a7&is=662aa627&hm=aa4b9f637a881633b1e9a35191c40889fa30cdfae53677527e9eb649678e7d48&",
         "sname": "AI/ML",
         "sdescription": "I also develop the websites. I create high performance website with blazing fast speed.",
         "skill": ["Statistical Analysis |", " Mathematical data Manipulation"],
     },
     {
         "id": "3",
-        "simg": "https://cdn.discordapp.com/attachments/1059849186884985004/1184386819358470164/design.png?ex=65fa872e&is=65e8122e&hm=deb77f00c43edb68fb9fab4091f03d379609b70d0fd8e9eba0eea7545a5e1128&",
+        "simg": "https://cdn.discordapp.com/attachments/1059849186884985004/1184386819358470164/design.png?ex=662bf76e&is=662aa5ee&hm=6c0dc5bd048a43556887d5b8ce2a7ac57a41bc22eaab41ec2cfbdae3ebf4fb0f&",
         "sname": "Web Design",
         "sdescription": "I also design the websites. Using Canva, Wireframe, bootstrap.",
         "skill": ["Photoshop |", " Canva "],
