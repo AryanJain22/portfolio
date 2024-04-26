@@ -7,7 +7,7 @@ import Page4 from "../Page4"
 const Home = () => {
     return (
         <div>
-            <Page1 />
+            {/* <Page1 /> */}
             <Page2 />
             <Page3 />
             <Page4 />

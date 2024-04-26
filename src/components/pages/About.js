@@ -37,8 +37,7 @@ const About = () => {
                         <br />
                         My proficiency includes HTML, CSS, JavaScript, and various frameworks. I am committed to staying abreast of industry trends, ensuring my creations not only meet current standards but also anticipate future needs.
                         <br />
-                        <br />
-                        Detail-oriented and collaborative, I excel in translating clients' visions into functional and visually appealing websites.
+                        
                     </p>
                 </div>
                 <div className="about-img">

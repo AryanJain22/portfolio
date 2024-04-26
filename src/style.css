@@ -113,11 +113,12 @@ body {
 /* SECOND PAGE OF HOME */
 .page2 {
     /* height: 85vh; */
+    padding-top: 80px;
     margin-bottom: 80px;
 }
 
 .written-info {
-    width: 40%;
+    width: 750px;
     margin: 10%;
 }
 
@@ -230,8 +231,10 @@ p {
 /* Media query for smaller screens */
 @media (max-width: 768px) {
     .container4 {
-        flex-direction: column; /* Change flex direction to column */
-        align-items: center; /* Center items horizontally */
+        flex-direction: column;
+        /* Change flex direction to column */
+        align-items: center;
+        /* Center items horizontally */
     }
 }
 
@@ -363,14 +366,22 @@ span {
 }
 
 .about-info {
-    height: 70vh;
-    overflow: hidden;
+    /* height: 70vh; */
+    /* overflow: hidden; */
 }
 
 .about-info p {
     font-size: 20px;
     width: 90%;
 }
+
+@media (max-width: 720px) {
+    .about-info {
+        height: 30vh;
+        /* Remove fixed height on smaller screens */
+    }
+}
+
 
 /* Education Card */
 .cardprop {
