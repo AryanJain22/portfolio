@@ -1,7 +1,7 @@
 const project = [
     {
         "id": '1',
-        "img": "https://cdn.discordapp.com/attachments/1059849186884985004/1181994924267290716/UB.png?ex=65f1d38e&is=65df5e8e&hm=97cc9db24718955e26c89f616cda945e10246e8769c0bfbdce857b6cce32edd0&",
+        "img": "https://cdn.discordapp.com/attachments/1059849186884985004/1181994924267290716/UB.png?ex=6604488e&is=65f1d38e&hm=df1624c9baf04091938a87b6f0e7dda8448be7f6784e93634669ef8fdf32707b&",
         "proj_title": "UNDERBelly",
         "description": "Food Order Website for the college food Court",
         "link": "https://github.com/trojan-kins/UnderBelly-Website",
@@ -15,7 +15,7 @@ const project = [
     // },
     {
         "id": '3',
-        "img": "https://cdn.discordapp.com/attachments/1059849186884985004/1182331335386349629/ada93729daf922ad0318c8c0295e5cb477921808-1456x816.webp?ex=65f30cdd&is=65e097dd&hm=05e0a10bedd868543ed074749752965453e9a4e74e3655b787ea517fe51a0072&",
+        "img": "https://cdn.discordapp.com/attachments/1059849186884985004/1182331335386349629/ada93729daf922ad0318c8c0295e5cb477921808-1456x816.webp?ex=660581dd&is=65f30cdd&hm=e25407ecdd69dcbc07180348b8fbd59025c6b6c6c6caa62790bcb591267de9d9&",
         "proj_title": "Traffic Prediction",
         "description": "Machine learning Model using GRU. Technologies used: Python, GoogleCollab, Anaconda.",
         "link": "https://colab.research.google.com/drive/15Af3StHGLK9f1ThfJ4Es4LwYHaEVDsg3?usp=sharing",
