@@ -4,7 +4,7 @@
     font-family: 'Roboto Mono';
 }
 
-body{
+body {
     line-height: 1.6;
 }
 
@@ -17,7 +17,7 @@ body{
 
 .navListbar {
     display: flex;
-    padding: 0PX;
+    padding: 0;
     justify-content: center;
 }
 
@@ -217,38 +217,38 @@ p {
 }
 
 .container4 {
-    margin: 0px 5%;
+    margin: 0 5%;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
+    /* Center align cards */
     overflow: hidden;
     padding: 20px;
-    /* border: 2px solid rgba(245, 245, 245, 0.314); */
-    /* background-color: rgba(245, 245, 245, 0.016); */
     border-radius: 30px;
 }
 
-
-.card {
-    height: 70vh;
-    padding: 5px;
-    width: 25%;
-    border-radius: 10px;
-    background: none;
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .container4 {
+        flex-direction: column; /* Change flex direction to column */
+        align-items: center; /* Center items horizontally */
+    }
 }
 
-@media (max-width: 600px) {
+.card {
+    height: auto;
+    padding: 5px;
+    width: 90%;
+    /* Adjust width for smaller screens */
+    max-width: 400px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
 
-    /* Apply the following styles only when the screen width is 600 pixels or less */
+@media (min-width: 768px) {
     .container4 {
-        flex-direction: column;
-        /* Stack cards vertically */
-        align-items: center;
-    }
-
-    .card {
-        width: 80%;
-        /* Adjust the width for smaller screens */
+        justify-content: space-evenly;
+        /* Revert to space-evenly for larger screens */
     }
 }
 
@@ -407,6 +407,3 @@ span {
     text-align: center;
     font-size: 20px;
 }
-
-
-/* New Comment */
