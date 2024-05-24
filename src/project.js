@@ -25,7 +25,7 @@ const project = [
         "img": "https://i.ibb.co/Y8VJM3N/suraksha.png",
         "proj_title": "Suraksha Setu",
         "description": "React App on Disaster Management",
-        "link": "https://suraksha-setu-vy8h.vercel.app/",
+        "link": "https://surakshasetu.vercel.app/",
     },
 ]
 
