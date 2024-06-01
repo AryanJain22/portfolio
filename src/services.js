@@ -10,7 +10,7 @@ const services = [
         "id": "2",
         "simg": "https://i.ibb.co/7gNPB7d/ai.png",
         "sname": "AI/ML",
-        "sdescription": "I also develop the websites. I create high performance website with blazing fast speed.",
+        "sdescription": "Encorporating Machine Learning and Artificial Intelligence",
         "skill": ["Statistical Analysis |", " Mathematical data Manipulation"],
     },
     {
