@@ -32,16 +32,16 @@ const About = () => {
                     <p>Hi, I am <span>Aryan Jain</span></p>
                     <h1>Web Developer Student</h1>
                     <p>
-                        As a dedicated web developer, I thrive on transforming innovative ideas into seamless digital experiences. With a keen eye for design and a passion for coding, I specialize in crafting responsive and user-friendly websites.
+                        As a dedicated web developer, thrives on transforming innovative ideas into seamless digital experiences. With a keen eye for design and a passion for coding, specializes in crafting responsive and user-friendly websites.
                         <br />
                         <br />
-                        My proficiency includes HTML, CSS, JavaScript, and various frameworks. I am committed to staying abreast of industry trends, ensuring my creations not only meet current standards but also anticipate future needs.
+                        Proficiency includes HTML, CSS, JavaScript, and various frameworks. Committed to staying abreast of industry trends, ensuring creations not only meet current standards but also anticipate future needs.
                         <br />
-                        
+
                     </p>
                 </div>
                 <div className="about-img">
-                    <img src={require('../../images/about-img.jpg')} width="350px" alt="about-pic"/>
+                    <img src={require('../../images/about-img.jpg')} width="350px" alt="about-pic" />
                 </div>
             </div>
 
