@@ -1,10 +1,10 @@
 const project = [
     {
         "id": '1',
-        "img": "https://i.ibb.co/NnWqTnz/UB.png",
-        "proj_title": "UNDERBelly",
-        "description": "Food Order Website for the college food Court",
-        "link": "https://github.com/trojan-kins/UnderBelly-Website",
+        "img": "https://i.ibb.co/fvRtSyL/Grey-Gold-Modern-Beauty-Salon-Logo.jpg",
+        "proj_title": "EPTECH",
+        "description": "Promoting environmental awareness and sustainability.",
+        "link": "https://eptech.vercel.app",
     },
     {
         "id": '2',
@@ -15,10 +15,10 @@ const project = [
     },
     {
         "id": '3',
-        "img": "https://i.ibb.co/fvRtSyL/Grey-Gold-Modern-Beauty-Salon-Logo.jpg",
-        "proj_title": "EPTECH",
-        "description": "Promoting environmental awareness and sustainability.",
-        "link": "https://eptech.vercel.app",
+        "img": "https://i.ibb.co/NnWqTnz/UB.png",
+        "proj_title": "UNDERBelly",
+        "description": "Food Order Website for the college food Court",
+        "link": "https://github.com/trojan-kins/UnderBelly-Website",
     },
     {
         "id": '4',
